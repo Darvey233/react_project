@@ -14,7 +14,7 @@ const business = {
 
 class Business extends React.Component {
     render() {
-        hi ---
+
     }
 
 }
