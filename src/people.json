@@ -1,0 +1,14 @@
+[
+  {
+    "name": "david",
+    "age": 23,
+    "hobbies": [
+      { "name": "gaming", "type": "indoor" },
+      { "name": "sleeping", "type": "outdoor" }
+    ]
+  },
+  {
+    "name": "jessica",
+    "age": 19
+  }
+]
